@@ -1,0 +1,16 @@
+Pandeglang Serang 24
+Pandeglang Cilegon 99
+Pandeglang RangkasBitung 21
+Cilegon Serang 18 
+RangkasBitung Serang 37
+RangkasBitung Tangerang 60 
+Serang Tangerang 68
+RangkasBitung Jasinga 35
+Tangerang Jakarta 29 
+Jasinga Bogor 52 
+Jakarta Bogor 52
+Bogor Cianjur 61
+Jakarta Purwakarta 95
+Purwakarta Cimahi 58
+Cianjur Cimahi 53
+Cimahi Bandung 12
